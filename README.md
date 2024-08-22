@@ -4,7 +4,7 @@ A list of awesome human motion generation papers. Continuing to be updated!!!
 
 ## Papers
 
-> <span style="color:#FFDD67">**★**</span> indicates that the paper introduces a new dataset.
+> ⭐️ indicates that the paper introduces a new dataset.
 
 ### Action-to-Motion
 
@@ -15,7 +15,7 @@ A list of awesome human motion generation papers. Continuing to be updated!!!
 - [Action-Conditioned 3D Human Motion Synthesis with Transformer VAE](https://arxiv.org/pdf/2104.05670), ICCV 2021 | [Project](https://mathis.petrovich.fr/actor/) | [Code](https://github.com/Mathux/ACTOR)
 
 - [BABEL: Bodies, Action and Behavior with English Labels](https://arxiv.org/pdf/2106.09696), CVPR 2021 | [Project](https://babel.is.tue.mpg.de/) | [Code](https://github.com/abhinanda-punnakkal/BABEL)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [Action2Motion: Conditioned Generation of 3D Human Motions](https://arxiv.org/pdf/2007.15240), MM 2020 | [Project](https://ericguo5513.github.io/action-to-motion/) | [Code](https://github.com/EricGuo5513/action-to-motion)
 
@@ -36,7 +36,7 @@ A list of awesome human motion generation papers. Continuing to be updated!!!
 - [FineMoGen: Fine-Grained Spatio-Temporal Motion Generation and Editing](https://arxiv.org/pdf/2312.15004), NeurIPS 2023 | [Project](https://mingyuan-zhang.github.io/projects/FineMoGen.html) | [Code](https://github.com/mingyuan-zhang/FineMoGen)
 
 - [Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset](https://arxiv.org/pdf/2307.00818), NeurIPS 2023 | [Project](https://motion-x-dataset.github.io/) | [Code](https://github.com/IDEA-Research/Motion-X)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model](https://arxiv.org/abs/2304.01116), ICCV 2023 | [Project](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html) | [Code](https://github.com/mingyuan-zhang/ReMoDiffuse)
 
@@ -63,10 +63,10 @@ A list of awesome human motion generation papers. Continuing to be updated!!!
 - [MotionCLIP: Exposing Human Motion Generation to CLIP Space](https://arxiv.org/pdf/2203.08063), ECCV 2022 | [Project](https://guytevet.github.io/motionclip-page/) | [Code](https://github.com/GuyTevet/MotionCLIP)
 
 - [Generating Diverse and Natural 3D Human Motions from Text](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf), CVPR 2022 | [Project](https://ericguo5513.github.io/text-to-motion/) | [Code](https://github.com/EricGuo5513/HumanML3D)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [AMASS: Archive of Motion Capture As Surface Shapes](https://arxiv.org/pdf/1904.03278), ICCV 2019 | [Project](https://amass.is.tue.mpg.de/) | [Code](https://github.com/nghorbani/amass)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [Synthesis of Compositional Animations from Textual Descriptions](https://arxiv.org/pdf/2103.14675), ICCV 2021 | [Code](https://github.com/anindita127/Complextext2animation)
 
@@ -82,7 +82,7 @@ A list of awesome human motion generation papers. Continuing to be updated!!!
 - [Listen, Denoise, Action! Audio-Driven Motion Synthesis with Diffusion Models](https://arxiv.org/pdf/2211.09707), TOG 2023 | [Project](https://www.speech.kth.se/research/listen-denoise-action/) | [Code](https://github.com/simonalexanderson/ListenDenoiseAction/)
   
 - [Music-Driven Group Choreography](https://arxiv.org/pdf/2303.12337), CVPR 2023 | [Project](https://aioz-ai.github.io/AIOZ-GDANCE/) | [Code](https://github.com/aioz-ai/AIOZ-GDANCE)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [EDGE: Editable Dance Generation From Music](https://arxiv.org/pdf/2211.10658), CVPR 2023 | [Project](https://edge-dance.github.io/) | [Code](https://github.com/Stanford-TML/EDGE)
 
@@ -100,44 +100,44 @@ A list of awesome human motion generation papers. Continuing to be updated!!!
 ### Object-to-Motion (HOI)
 
 - [CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement](https://arxiv.org/pdf/2406.19353), ArXiv 2024 | [Project](https://core4d.github.io/) | [Code](https://github.com/leolyliu/CORE4D-Instructions)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [Full-Body Articulated Human-Object Interaction](https://arxiv.org/pdf/2212.10621), ICCV 2023 | [Project](https://jnnan.github.io/project/chairs) | [Code](https://github.com/jnnan/chairs)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [IMos: Intent-Driven Full-Body Motion Synthesis for Human-Object Interactions](https://arxiv.org/pdf/2212.07555), Eurographics 2023 | [Project](https://vcai.mpi-inf.mpg.de/projects/IMoS/) | [Code](https://github.com/anindita127/IMoS)
   
 - [Object Motion Guided Human Motion Synthesis](https://arxiv.org/pdf/2309.16237), SIGGRAPH Asia 2023 | [Project](https://lijiaman.github.io/projects/omomo/) | [Code](https://github.com/lijiaman/omomo_release)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [SAGA: Stochastic Whole-Body Grasping With Contact](https://arxiv.org/pdf/2112.10103), ECCV 2022 | [Project](https://jiahaoplus.github.io/SAGA/saga.html) | [Code](https://github.com/JiahaoPlus/SAGA)
 
 - [COUCH: Towards Controllable Human-Chair Interactions](http://arxiv.org/pdf/2205.00541), ECCV 2022 | [Project](https://virtualhumans.mpi-inf.mpg.de/couch/) | [Code](https://github.com/xz6014/couch/)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [BEHAVE: Dataset and Method for Tracking Human Object Interactions](https://arxiv.org/pdf/2204.06950), CVPR 2022 | [Project](https://virtualhumans.mpi-inf.mpg.de/behave/)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping](https://arxiv.org/pdf/2112.11454), CVPR 2022 | [Project](https://goal.is.tue.mpg.de/) | [Code](https://github.com/otaheri/GOAL)
 
 - [Learning to Sit: Synthesizing Human-Chair Interactions via Hierarchical Control](https://arxiv.org/pdf/1908.07423), AAAI 2021 | [Project](https://sites.google.com/view/hierarchical-control)
 
 - [GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200), ECCV 2020 | [Project](https://grab.is.tue.mpg.de/) | [Code](https://github.com/otaheri/GRAB)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 
 
 ### Scene-to-Motion (HSI)
 
 - [Scaling Up Dynamic Human-Scene Interaction Modeling](https://arxiv.org/pdf/2403.08629), CVPR 2024 | [Project](https://jnnan.github.io/trumans/) | [Code](https://github.com/jnnan/trumans_utils)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [Synthesizing Diverse Human Motions in 3D Indoor Scenes](https://arxiv.org/pdf/2305.12411), ICCV 2023 | [Project](https://zkf1997.github.io/DIMOS/) | [Code](https://github.com/zkf1997/DIMOS)
 
 - [Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning](https://arxiv.org/pdf/2303.09410), ICCV 2023 | [Project](https://cic.tju.edu.cn/faculty/likun/projects/Narrator/index.html)
 
 - [CIRCLE: Capture in Rich Contextual Environments](https://arxiv.org/pdf/2303.17912), CVPR 2023 | [Project](https://stanford-tml.github.io/circle_dataset/)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [Generating Continual Human Motion in Diverse 3D Scenes](https://arxiv.org/pdf/2304.02061), 3DV 2023
 
@@ -152,7 +152,7 @@ A list of awesome human motion generation papers. Continuing to be updated!!!
 - [Stochastic Scene-Aware Motion Prediction](https://arxiv.org/pdf/2108.08284), ICCV 2021 | [Project](https://samp.is.tue.mpg.de/) | [Code](https://github.com/mohamedhassanmus/SAMP)
 
 - [Long-term Human Motion Prediction with Scene Context](https://arxiv.org/pdf/2007.03672), ECCV 2020 | [Project](https://zhec.github.io/hmp/) | [Code](https://github.com/ZheC/GTA-IM-Dataset)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 
 
@@ -163,10 +163,10 @@ A list of awesome human motion generation papers. Continuing to be updated!!!
 - [ReGenNet: Towards Human Action-Reaction Synthesis](https://arxiv.org/pdf/2403.11882), CVPR 2024 | [Project](https://liangxuy.github.io/ReGenNet/) | [Code](https://github.com/liangxuy/ReGenNet)
 
 - [Inter-X: Towards Versatile Human-Human Interaction Analysis](https://arxiv.org/pdf/2312.16051), CVPR 2024 | [Project](https://liangxuy.github.io/inter-x/) | [Code](https://github.com/liangxuy/Inter-X)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 - [InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions](https://arxiv.org/pdf/2304.05684), IJCV 2024 | [Project](https://tr3e.github.io/intergen-page/) | [Code](https://github.com/tr3e/InterGen)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 
 
@@ -185,7 +185,7 @@ A list of awesome human motion generation papers. Continuing to be updated!!!
 - [HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models](https://arxiv.org/abs/2312.06553), ArXiv 2023 | [Project](https://neu-vi.github.io/HOI-Diff/) | [Code](https://github.com/neu-vi/HOI-Diff)
 
 - [HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes](https://arxiv.org/pdf/2210.09729), NeurIPS 2022 | [Project](https://silvester.wang/HUMANISE/) | [Code](https://github.com/Silverster98/HUMANISE)
-<span style="color:#FFDD67">**★**</span>
+⭐️
 
 
 
