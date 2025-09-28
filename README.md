@@ -1,3 +1,16 @@
+I noticed that some researchers have compiled excellent summaries of motion generation papers. I recommend referring to the following collections:
+
+- [awesome-text-to-motion](https://zilize.github.io/awesome-text-to-motion/)
+
+- [Awesome-Human-Interaction-Motion-Generation](https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation)
+
+Together, these summaries cover nearly all motion generation papers.
+
+This repository will no longer be updated.
+
+
+
+
 # Awesome-Human-Motion-Generation
 
 A list of awesome human motion generation papers. Continuing to be updated!!!
